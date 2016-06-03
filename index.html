@@ -1,1 +1,32 @@
+<!DOCTYPE Html>
+<html lang="fr">
 
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title> Le Générateur d'équipe</title>
+  <link rel="stylesheet" type="text/css" href="style.css"/>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script src="script.js"></script>
+</head>
+
+<body>
+
+<div class="equipe">
+  <h1>Team Generator</h1>
+
+  <p> Combien de personnes par équipes ? </p>
+  <form name="equipe">
+    <input type="number" class="nb" name="nb" required min="1"/>
+    <input type="submit" class="chance" name="chance" value="Une équipe"/>
+    <input type="submit" class="teamBtn" name="equipe" value="Toutes les équipes"/>
+  </form>
+
+</div>
+
+<div class="resultat"></div>
+
+
+</body>
+
+</html>

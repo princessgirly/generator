@@ -1,4 +1,4 @@
 # generator
 Le Générateur d'équipe
 
-http://princessgirly.github.io/legenerateur/
+http://princessgirly.github.io/generator/
