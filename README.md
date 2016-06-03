@@ -1,2 +1,4 @@
-# leg-n-rateur
+# legenerateur
 Le Générateur d'équipe
+
+http://princessgirly.github.io/legenerateur/
