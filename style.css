@@ -11,7 +11,7 @@ html, body {
   background-position: center;
 }
 
-.equipe {
+.equipe .chiffres {
   border:5px solid black;
   padding-bottom: 30px;
   margin-top: 40px;
